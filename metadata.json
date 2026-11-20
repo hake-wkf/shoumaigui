@@ -1,0 +1,6 @@
+{
+  "name": "谷家智能售货柜 - 智能零售前台流程",
+  "description": "无人售货柜前台核心流程：扫码开门、微信支付分免密授权、开门选购、订单列表与订单详情退款管理",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
